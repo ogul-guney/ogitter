@@ -1,0 +1,6 @@
+{
+  "name": "Ogitter Blog",
+  "description": "ogul-guney/ogitter GitHub deposundaki Markdown yazılarını listeleyen ve Marked.js ile görüntüleyen minimalist tek sayfalık blog arayüzü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
